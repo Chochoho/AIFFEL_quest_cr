@@ -19,6 +19,8 @@ Canva로 위처럼 와이어프레임을 구현하였습니다.
 ![git 녹음](https://github.com/user-attachments/assets/32431073-14b4-42ba-98dd-7eca1f7fd085)
 
 4. 플러터 화면 구현
+
+   
 ![image](https://github.com/user-attachments/assets/f8cdee38-70b7-4e30-bdea-e53eb78cae83)
 
 ![image](https://github.com/user-attachments/assets/62ea3df4-e984-43f5-a4a8-607049c59170)
