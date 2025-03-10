@@ -18,7 +18,17 @@ Canva로 위처럼 와이어프레임을 구현하였습니다.
    
 ![git 녹음](https://github.com/user-attachments/assets/32431073-14b4-42ba-98dd-7eca1f7fd085)
 
-*회고*
+4. 플러터 화면 구현
+![image](https://github.com/user-attachments/assets/f8cdee38-70b7-4e30-bdea-e53eb78cae83)
+
+![image](https://github.com/user-attachments/assets/62ea3df4-e984-43f5-a4a8-607049c59170)
+
+![image](https://github.com/user-attachments/assets/98dca59f-2869-4072-93ce-8c6a4242c9d0)
+
+
+
+<회고>
+
 -임신을 하고 결심한 점은 무리가 되는 과제는 수행하지 않는다 입니다.^^;;
 -이번 과제는 비교적 어려운 편이라고 생각이 들었고, 할 수 있는 만큼 그러나 최선을 다 해보았습니다.^^ 
 
