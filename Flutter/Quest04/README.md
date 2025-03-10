@@ -4,9 +4,17 @@
 
 <유튜브 뮤직>
 ![image](https://github.com/user-attachments/assets/dc81aeaf-5a1d-47f0-9f28-8a9303a98c64)
+위에 보이는 3페이지의 유튜브 뮤직 화면을 구현해보았습니다.
 
+1. 정보구조분석
+![image](https://github.com/user-attachments/assets/775089f0-ce69-48b3-9292-b54169637fe4)
+유튜브 뮤직 정보구조분석은 다음과 같습니다.
 
+2. 와이어프레임
+![image](https://github.com/user-attachments/assets/4e79a6fd-64a2-4091-a775-b45b09c0a4e4)
+Canva로 위처럼 와이어프레임을 구현하였습니다.
 
+3. 프로토타이핑 진행하기
 
 
 # PRT(Peer Review Template)
