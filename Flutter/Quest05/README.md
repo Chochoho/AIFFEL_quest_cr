@@ -1,6 +1,17 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
+- 코더 : 정원규, 조현정
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
+
+어제 결석한 관계로 작업을 완벽하게 실행할 수 없는 상태였음.
+이러한 상황에서 퀘스트 동료 그루님을 잘 만나 도움을 받아 진행할 수 있었음.
+
+LMS가 잘 작동하지 않아 모델들을 로컬에 다운받아 실행하였음.
+그림이 4차원이라서 3차원으로 변형하는 작업을 진행함.
+
+<결과>
+![image](https://github.com/user-attachments/assets/086ee318-423a-4f25-8971-b02b3f3ea1ac)
+
+
 
 
 # PRT(Peer Review Template)
