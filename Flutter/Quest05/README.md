@@ -8,7 +8,12 @@
 LMS가 잘 작동하지 않아 모델들을 로컬에 다운받아 실행하였음.
 그림이 4차원이라서 3차원으로 변형하는 작업을 진행함.
 
+어플로 구현하는 장면에서는, 해파리 아이콘이 없어서 비슷한 모양인 '벨'아이콘으로 대체함.
+
+
 <결과>
+
+
 ![image](https://github.com/user-attachments/assets/086ee318-423a-4f25-8971-b02b3f3ea1ac)
 
 ![image](https://github.com/user-attachments/assets/892ff1d2-2cae-4bdf-abe3-75eba8f97e78)
